@@ -42,3 +42,16 @@
     add_filter( 'post_class', 'example_add_post_class_to_single_post' );
 
     add_theme_support( 'post-thumbnails' );
+
+    if( function_exists('acf_add_options_page') ) {
+    
+        acf_add_options_page(array(
+            'page_title'    => 'Options',
+            'menu_title'    => 'Options',
+            'menu_slug'     => 'general-options',
+            'capability'    => 'edit_posts',
+            'redirect'      => false
+        ));
+
+        
+      }

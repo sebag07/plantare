@@ -2,18 +2,7 @@
 <?php get_header(); ?>
 
 <div id="home" class="hero">
-      <div class="row heroContent container-fluid justify-content-center text-center m-0">
-          <div class="col-lg-10 col-md-12 col-12">
-            <!--<h2>Promisiunea de a planta în CODRU a fost făcută atunci când am dansat și am cântat împreună SUB SOARE la CODRU Festival 2022. Fiecare participare a voastră a însemnat cel puțin un copac plantat.</h2>-->
-            <h2>Plăntăm! Când? <br>6-7 mai 2023.<br> Unde? <br>Două Dealuri, Recaș </h2>
-              <div class="heroButtonContainer mt-5 mb-5">
-                  <a class="heroButton" href="https://docs.google.com/forms/d/e/1FAIpQLSf0fPTd5mFafR5I1CCypEitEUrVmqWpx6hqb8nldLvhVWgWeg/viewform" target="_blank">ÎNSCRIE-TE</a>
-              </div>
-              <div>
-                 <iframe width="100%" height="500" src="https://www.youtube.com/embed/e1n1bSa_DGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-             </div>
-          </div>
-      </div>
+<?php add_revslider('brewery-website-slider1','homepage'); ?>
 </div>
 
 <div class="mobileAbout container-fluid text-center">
@@ -139,14 +128,16 @@
 </div>
 </div>
 </div> -->
-
+<!-- 
 <div id="contactAnchor" class="container-fluid contactFormSection sectionPadding">
     <div class="contactSectionLeftSide container">
         <h2>Cu ce te putem ajuta?</h2>
         <p>Completează formularul de mai jos sau lasă-ne un mesaj pe adresa de e-mail.</p>
-    <?php echo do_shortcode('[wpforms id="34" title="false"]'); ?>
+    <?php
+    //  echo do_shortcode('[wpforms id="34" title="false"]'); 
+    ?>
     </div>
-</div>
+</div> -->
 
 <div class="container-fluid p-0 mapSection">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d44465.98774771028!2d21.489921978665226!3d45.848812879107356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x474f89dd479754cf%3A0x6bda9c073dd0561f!2sDoua%20Dealuri!5e0!3m2!1sen!2sro!4v1678684517351!5m2!1sen!2sro" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
