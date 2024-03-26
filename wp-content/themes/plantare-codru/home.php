@@ -5,6 +5,7 @@
 <?php add_revslider('brewery-website-slider1','homepage'); ?>
 </div>
 
+<!-- Test commit -->
 <div class="mobileAbout container-fluid text-center">
     <h2>Despre plantare CODRU</h2>
         <p>Promisiunea de a planta cel puțin un copac a fost făcută atunci când am dansat și am cântat împreună SUB SOARE la CODRU Festival 2022. </p>
