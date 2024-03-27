@@ -2,7 +2,7 @@
 <?php get_header(); ?>
 
 <div id="home" class="hero">
-<?php add_revslider('brewery-website-slider1','homepage'); ?>
+<?php add_revslider('plantare-codru-hero','homepage'); ?>
 </div>
 
 <!-- Test commit -->

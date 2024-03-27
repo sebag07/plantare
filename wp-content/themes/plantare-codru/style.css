@@ -1856,3 +1856,14 @@ table td {
   opacity: 0.1;
   z-index: -1;
 }
+
+
+/* 2024 CHANGES */
+
+.mobileAbout {
+  display: none !important;
+}
+
+#pinContainer {
+  display: none !important;
+}
