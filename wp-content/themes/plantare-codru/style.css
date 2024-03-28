@@ -1868,13 +1868,3 @@ table td {
 #rs-respect-topbar_wrapper {
   height: 100% !important;
 }
-
-.rs-parallax-wrap {
-  top: 0 !important;
-}
-
-@media (max-width:778px) {
-  .rs-parallax-wrap {
-    top: auto !important;
-  }
-}
