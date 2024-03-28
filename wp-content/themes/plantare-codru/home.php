@@ -140,8 +140,8 @@
     </div>
 </div> -->
 
-<div class="container-fluid p-0 mapSection">
+<!-- <div class="container-fluid p-0 mapSection">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d44465.98774771028!2d21.489921978665226!3d45.848812879107356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x474f89dd479754cf%3A0x6bda9c073dd0561f!2sDoua%20Dealuri!5e0!3m2!1sen!2sro!4v1678684517351!5m2!1sen!2sro" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
+</div> -->
 
 <?php get_footer(); ?>
