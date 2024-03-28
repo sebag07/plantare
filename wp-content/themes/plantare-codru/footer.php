@@ -40,14 +40,13 @@
         </div>
         <div class="footerItems col-lg-8 col-xl-7 col-md-12 col-12">
             <span><img src="/wp-content/themes/plantare-codru/images/mail.svg" alt="">OFFICE@CODRUFESTIVAL.RO</span>
-            <a href="https://goo.gl/maps/CKWH5sGtU7W9PxNo8" target="_blank"><span><img src="/wp-content/themes/plantare-codru/images/map-pin.svg" alt="">PĂDUREA BISTRA, JUDEȚUL TIMIȘ</span></a>
+                <a href="https://maps.app.goo.gl/bLpSyRqu9UB6Jwfd9" target="_blank"><span><img src="/wp-content/themes/plantare-codru/images/map-pin.svg" alt="">ȘAG, JUDEȚUL TIMIȘ</span></a>
             <span><img src="/wp-content/themes/plantare-codru/images/camera.svg" alt="">PRESS@CODRUFESTIVAL.RO</span>
             <span class="footerSocials">
                 <a href="https://www.facebook.com/codrufestival" target="_blank"><img src="/wp-content/themes/plantare-codru/images/facebookcodru.svg" alt=""></a>
                 <a href="https://www.instagram.com/codrufestival/" target="_blank"><img src="/wp-content/themes/plantare-codru/images/instagramcodru.svg" alt=""></a>
                 <a href="https://www.linkedin.com/company/codrufestival/" target="_blank"><img src="/wp-content/themes/plantare-codru/images/linkedincodru.svg" alt=""></a>
                 <a href="https://www.youtube.com/@codrufestival" target="_blank"><img src="/wp-content/themes/plantare-codru/images/youtubecodru.svg" alt=""></a>
-                <a href="https://spotify.link/mN0Bq5T0dCb" target="_blank"><img src="/wp-content/themes/plantare-codru/images/spotify.svg" alt=""></a>
             </span>
         </div>
         <div class="footerRightLogo col-lg-2 col-md-12 col-12 d-flex">
