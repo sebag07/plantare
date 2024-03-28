@@ -1872,8 +1872,6 @@ table td {
 }
 
 
-@media (max-width:778px) {
-  .rev_row_zone_bottom {
-    background-color: #000;
-  }
+#slider-8-slide-38-layer-20 {
+  padding-bottom: 0px !important;
 }
