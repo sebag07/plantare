@@ -1871,4 +1871,12 @@ table td {
 
 .rs-parallax-wrap {
   top: 0 !important;
+  height: 100% !important;
+}
+
+@media (max-width:778px) {
+  .rs-parallax-wrap {
+    top: auto !important;
+    height: auto !important;
+  }
 }
