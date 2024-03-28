@@ -139,7 +139,7 @@
                     class="icon-menu h3 m-0 p-0 mt-2"></span></a>
         </div>
 
-        <div class="site-logo col-lg-2 col-10"><a href="/"><img src="/wp-content/themes/plantare-codru/images/whitelogoplantare.svg"
+        <div class="site-logo col-lg-2 col-10"><a href="/"><img src="/wp-content/themes/plantare-codru/images/whitelogoplantare.png"
                     alt=""></a></div>
 
 
