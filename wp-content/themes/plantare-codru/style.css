@@ -1870,3 +1870,10 @@ table td {
 #rs-respect-topbar_wrapper {
   height: 100% !important;
 }
+
+
+@media (max-width:778px) {
+  .rev_row_zone_bottom {
+    background-color: #000;
+  }
+}
