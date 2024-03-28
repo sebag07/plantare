@@ -56,8 +56,6 @@ a {
   background-position: center center;
   background-repeat: no-repeat; 
   position: relative;
-  height: calc(100vh - 80px);
-  margin-top: 80px;
 }
 
 .heroContent {
@@ -136,7 +134,7 @@ a {
 	/* max-width: 180px; */
 	height: auto;
 	width: 100%;
-	max-height: 50px;
+	max-height: 80px;
   }
   
   @media screen and (max-width: 500px){
@@ -1868,7 +1866,8 @@ table td {
 }
 
 #rs-respect-topbar_forcefullwidth {
-  height: 100% !important;
+  height: calc(100vh - 80px) !important;
+  padding-top: 80px;
 }
 
 #rs-respect-topbar_wrapper {
