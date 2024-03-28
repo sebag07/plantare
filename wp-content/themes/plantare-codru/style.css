@@ -1869,3 +1869,7 @@ table td {
 #rs-respect-topbar_wrapper {
   height: 100% !important;
 }
+
+.rev_row_zone_bottom {
+  background-color: #000 !important;
+}
