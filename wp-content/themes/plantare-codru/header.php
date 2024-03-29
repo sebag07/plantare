@@ -29,7 +29,7 @@
   />
   <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
 
-    <title>Plantare Codru 2023</title>
+    <title>Oxigen - Planting Festival</title>
     <script>
     jQuery(function() {
       jQuery(document).ready(function() {
