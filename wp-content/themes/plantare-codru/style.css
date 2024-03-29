@@ -1914,8 +1914,8 @@ table td {
 
 @media (max-width:767px) {
 #activitiesAnchor {
-  padding: 100px 0px;
-  transform: translateY(-50px) !important;
+  padding: 100px 0px 0px 0px;
+  transform: translateY(-40px) !important;
   z-index: 2;
   position: relative;
   background-color: #000;
