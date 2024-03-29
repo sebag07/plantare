@@ -1881,6 +1881,10 @@ table td {
 	margin-top: 25px;
 }
 
+@media screen and (max-width: 767px) {
+	height: 300px;
+}
+
 #mapAnchor h3 {
 	color: #fff;
 }
