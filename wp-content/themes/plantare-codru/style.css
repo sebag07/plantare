@@ -1881,9 +1881,6 @@ table td {
 	margin-top: 25px;
 }
 
-@media screen and (max-width: 767px) {
-	height: 300px;
-}
 
 #mapAnchor h3 {
 	color: #fff;
@@ -1913,4 +1910,11 @@ table td {
 	font-weight: 600;
 	color: #fff;
 	text-align: center;
+}
+
+@media (max-width:767px) {
+#activitiesAnchor {
+  padding: 100px 0px;
+  transform: translateY(-50px) !important;
+}
 }
