@@ -1918,5 +1918,6 @@ table td {
   transform: translateY(-50px) !important;
   z-index: 2;
   position: relative;
+  background-color: #000;
 }
 }
