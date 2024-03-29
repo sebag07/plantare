@@ -1916,5 +1916,7 @@ table td {
 #activitiesAnchor {
   padding: 100px 0px;
   transform: translateY(-50px) !important;
+  z-index: 2;
+  position: relative;
 }
 }
