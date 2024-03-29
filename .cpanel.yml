@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/r100578pizz/plantare.ghem.app/
+    - /bin/cp -R wp-content $DEPLOYPATH
