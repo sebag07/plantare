@@ -935,8 +935,8 @@ a {
 
 
     .heroButtonMenu {
-    background: #f47e30;
-    color: #fff;
+    background: #9dfe23;
+    color: #000;
     box-sizing: border-box;
     border-radius: 7px;
     text-align: center;
@@ -947,7 +947,8 @@ a {
     }
 
     .heroButtonMenu:hover {
-      background: #9dfe23;
+      background: transparent;
+		border: 1px solid #fff;
       color: #fff !important;
     }
 
@@ -1646,8 +1647,8 @@ footer {
 
 
 .forminator-button {
-	background: #efaa13 !important;
-	color: #fff !important;
+	background: #9dfe23 !important;
+	color: #000 !important;
 	box-sizing: border-box !important;
 	border-radius: 20px !important;
 	border: none !important;
@@ -1660,7 +1661,9 @@ footer {
 }
 
 .forminator-button:hover {
-  background-color: #9dfe23 !important;
+  background-color: transparent !important;
+	border: 1px solid #fff !important;
+	color: #fff !important;
 }
 
 .forminator-input, .forminator-textarea {

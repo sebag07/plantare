@@ -8,8 +8,8 @@
     <link href="https://fonts.googleapis.com/css?family=Quicksand:400,600,700&display=swap" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>    <script src="/wp-content/themes/plantare-codru/js/popper.min.js"></script>
 
-    <link rel="stylesheet" href="/wp-content/themes/plantare-codru/fonts/style.css?ver=1">
-    <link rel="icon" href="/wp-content/themes/plantare-codru/images/logocodru.png">
+    <link rel="stylesheet" href="/wp-content/themes/plantare-codru/fonts/style.css?ver=7">
+    <link rel="icon" href="/wp-content/themes/plantare-codru/images/oxigen-planting-festival-icon.png">
 
     <link rel="stylesheet" href="/wp-content/themes/plantare-codru/css/owl.carousel.min.css">
     <link rel="stylesheet" href="/wp-content/themes/plantare-codru/js/main.js">
@@ -27,14 +27,6 @@
     rel="stylesheet"
     href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"
   />
-  		<!-- <script>
-		!function (w, d, t) {
-		w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};var o=document.createElement("script");o.type="text/javascript",o.async=!0,o.src=i+"?sdkid="+e+"&lib="+t;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(o,a)};
-
-		ttq.load('CBPU1SJC77U40OTR44OG');
-		ttq.page();
-		}(window, document, 'ttq');
-		</script> -->
   <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
 
     <title>Plantare Codru 2023</title>
