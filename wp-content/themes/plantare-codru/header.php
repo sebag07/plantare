@@ -109,7 +109,9 @@
                         src="/wp-content/themes/plantare-codru/images/youtubecodru.svg" alt=""></a>
             </span>
             <a class="heroButtonMenu" href="<?php echo get_field('sign_up_btn_url', 'options'); ?>" target="_blank"><?php echo get_field('sign_up_btn_text', 'options'); ?></a>
-        </ul>
+            <a class="heroButtonMenu buyTicketBtnMenu" href="<?php echo get_field('buy_ticket_url', 'options'); ?>" target="_blank"><?php echo get_field('buy_ticket_text', 'options'); ?></a>
+
+          </ul>
     </div>
 </div> <!-- .site-mobile-menu -->
 
@@ -177,7 +179,9 @@
                             src="/wp-content/themes/plantare-codru/images/youtubecodru.svg" alt=""></a>
                 </span>
                 <a class="heroButtonMenu" href="<?php echo get_field('sign_up_btn_url', 'options'); ?>" target="_blank"><?php echo get_field('sign_up_btn_text', 'options'); ?></a>
-            </ul>
+                <a class="heroButtonMenu buyTicketBtnMenu" href="<?php echo get_field('buy_ticket_url', 'options'); ?>" target="_blank"><?php echo get_field('buy_ticket_text', 'options'); ?></a>
+
+              </ul>
             <a href="#" class="site-menu-toggle js-menu-toggle d-inline-block d-xl-none ml-3"><span
                     class="icon-menu h3 m-0 p-0 mt-2"></span></a>
         </div>

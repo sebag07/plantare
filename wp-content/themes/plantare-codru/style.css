@@ -1922,3 +1922,14 @@ table td {
   background-color: #000;
 }
 }
+
+.buyTicketBtnMenu {
+  background-color: #efaa13;
+  color: #fff;
+}
+
+.buyTicketBtnMenu:hover {
+  background-color: #569d88;
+  color: #fff;
+  border: none;
+}
