@@ -55,6 +55,13 @@
     </div>
 </div>
 
+<div id="locationAnchor" class="container-fluid sectionPadding">
+    <div class="contactSectionLeftSide container">
+        <h2>Hartă</h2>
+        <img src="/wp-content/themes/plantare-codru/images/hartaoxigen6.png"></img>
+    </div>
+</div>
+
 <div id="mapAnchor" class="container-fluid contactFormSection sectionPadding">
     <div class="contactSectionLeftSide container">
         <h2>Locație</h2>

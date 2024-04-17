@@ -1933,3 +1933,8 @@ table td {
   color: #fff;
   border: none;
 }
+
+#locationAnchor img {
+  max-width: 100%;
+  max-height: 600px;
+}
