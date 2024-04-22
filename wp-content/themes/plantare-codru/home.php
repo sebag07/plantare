@@ -9,7 +9,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <h2>Activități</h2>
+                <h2 class="section-title">Activități</h2>
             </div>
             <?php
             if( have_rows('activities_repeater') ):
@@ -34,7 +34,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <h2>Artiști</h2>
+                <h2 class="section-title">Artiști</h2>
             </div>
             <?php
             if( have_rows('artists_repeater') ):
@@ -45,6 +45,31 @@
                 <div class="col-lg-6 image-container">
                     <img src="<?php echo $artist_image ?>">
                 </div>
+
+
+                <?php
+                endwhile;
+            endif;
+            ?>
+        </div>
+    </div>
+</div>
+
+<div id="partnersAnchor" class="container-fluid sectionPadding">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="section-title">Au contribuit la Oxigen Planting Festival</h2>
+            </div>
+            <?php
+            if( have_rows('partners_repeater') ):
+                while( have_rows('partners_repeater') ) : the_row();
+                    $partner_image = get_sub_field("partner_image");
+                    ?>
+
+                    <div class="col-lg-2 col-md-3 col-sm-4 col-6 image-container">
+                        <img src="<?php echo $partner_image ?>">
+                    </div>
 
 
                 <?php
